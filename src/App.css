@@ -1,0 +1,16 @@
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+/* .rainbow-path {
+  stroke-dasharray: 180;
+  stroke-dashoffset: 9 !important;
+} */
+
+.path {
+  /* clip-path: ellipse(100% 100% at -90% 100%); */
+  /* clip-path: ellipse(100% 100% at 50% 50%); */
+  scale: 1.15;
+  opacity: 0;
+}
